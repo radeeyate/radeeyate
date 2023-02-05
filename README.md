@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **SparkShell, a coding website**.
 
-- 🌱 I’m currently learning **FastAPI**>
+- 🌱 I’m currently learning **FastAPI**.
 
 - ⚡ Fun fact: **Ketchup is a tomato smoothie**.
 
