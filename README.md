@@ -2,8 +2,7 @@
 
 <h3 align="center">A cool developer from Montana</h3>
 
-![](https://komarev.com/ghpvc/?username=radeeyate&color=F5A9B8&style=for-the-badge)
-
+![](https://hit.yhype.me/github/profile?user_id=124477460)
 - 🔭 I’m currently working on **SparkShell, a coding website**.
 
 - 🌱 I’m currently learning **FastAPI**.
