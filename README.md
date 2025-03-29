@@ -9,11 +9,15 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=radeeyate&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=557&api_domain=hackatime.hackclub.com&theme=midnight-purple&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" />
+</a>
+
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=radeeyate&theme=radical&title=-Reviews" />
 </a>
 
----<p align="center">
+<p align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
 <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
